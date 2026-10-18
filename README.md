@@ -186,7 +186,7 @@ Mis en place un pipeline CI/CD avec GitHub Actions.
 
 Intégré un système de monitoring avec Prometheus pour la collecte des métriques et Grafana pour la visualisation.
 
-Documenté toutes les étapes avec captures d’écran.
+Documenté toutes les étapes.
 
 ### En Fin 
 
